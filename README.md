@@ -2,11 +2,10 @@
 
 ### This is Rohit Madeshiya. Passionate to become a Full Stack Developer.
 
-</br>
 
 ## 🌐 Socials:
 
-</br>
+
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rohit.madeshiya.583) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__.designer.__.rohit.__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-madeshiya-4b7a63169/)
 
