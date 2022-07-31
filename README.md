@@ -31,6 +31,4 @@ You can check work done by me in my profile or you can visit my portfolio websit
 ![](https://github-readme-streak-stats.herokuapp.com/?user=madeshiyarohit&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=madeshiyarohit&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
